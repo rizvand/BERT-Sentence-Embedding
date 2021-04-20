@@ -1,3 +1,3 @@
-# Word-Embedding-BERT
+# BERT-Sentence-Embedding
 
-Starter notebook yang cukup intuitif untuk mendapatkan sentence/word vectors dari pretrained BERT model serta untuk memahami input/output dari BERT model
+Starter notebook untuk mendapatkan sentence/word vectors dari pretrained BERT model serta untuk memahami input/output dari BERT model
